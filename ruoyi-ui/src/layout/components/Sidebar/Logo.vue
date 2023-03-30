@@ -35,7 +35,7 @@ export default {
   },
   data() {
     return {
-      title: '老郭管理系统',
+      title: '郭爱默管理系统',
       logo: logoImg
     }
   }
